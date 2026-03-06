@@ -1,0 +1,5 @@
+Que valor se le dan a las constantes?
+Que IP adress se usa para el host en los archivos.json?
+
+Como no se especifica cuando añadir los puntajes a al archivo puntaje.txt los añadiré al final antes de cerrar el juego
+Crear un paremetro para la ruta del archivo de puntaje.txt, donde se guarda?
